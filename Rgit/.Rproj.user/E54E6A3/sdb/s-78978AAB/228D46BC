@@ -1,0 +1,17 @@
+{
+    "contents" : "---\ntitle: \"HelloWorld.md\"\noutput: html_document\n---\n\n## This is a markdown file\n\n",
+    "created" : 1425437910163.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2908079814",
+    "id" : "228D46BC",
+    "lastKnownWriteTime" : 1425438018,
+    "path" : "~/git/HelloWorld.Rmd",
+    "project_path" : "HelloWorld.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
